@@ -51,7 +51,7 @@ Related Reading
 If you’re interested in the reasoning behind this pattern, see:
 
 Why Some Email Automations Don’t Belong in a Shared Mailbox
-(Medium article link goes here)
+[(Medium article link goes here)](https://medium.com/@sassyx/why-some-email-automations-dont-belong-in-a-shared-mailbox-0cf1f1aebf9e)
 
 Notes
 
